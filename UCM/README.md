@@ -4,9 +4,9 @@ Actualized format of the presentation made in the month of June 2019, at the Uni
 
 This presentation provides a broad, very informative and accurate view of the subject. At the end of the presentation, the audience leaves with a clear vision of each of the treated topics, their interrelation, dependence, and independence respectively. The presentation is complemented with a summary exposition of the state of the art of the subject in general, and a couple of examples of direct application of recent data.
 
-### Table of Contents
+### TABLE OF CONTENTS
 
-#### I What About Artificial Intelligence (AI)
+### I What About Artificial Intelligence (AI)
 ##### What is AI?
 ##### AI classification
 ##### Some topics of AI's progress to date (July 2019)
@@ -15,7 +15,7 @@ This presentation provides a broad, very informative and accurate view of the su
 ##### Artificial Super Intelligence (ASI)
 ##### Technological Singularity
 
-#### II What about Machine learning (ML)
+### II What about Machine learning (ML)
 ##### What is ML?
 ##### Why and what is the ML for?
 ##### ML Classification
@@ -24,7 +24,7 @@ This presentation provides a broad, very informative and accurate view of the su
 ##### Some platforms and tools specialized in ML?
 ##### AI and Machine Learning
 
-#### III What about Big Data (BigData)
+### III What about Big Data (BigData)
 ##### What is BigData?
 ##### Some important concepts associated with BigData
 ##### BigData Characterization (5V)
@@ -34,14 +34,14 @@ This presentation provides a broad, very informative and accurate view of the su
 ##### Relationship of information storage capacity and BigData
 ##### AI, Machine Learning, and BigData
 
-#### IV What About Data Science
+### IV What About Data Science
 ##### What is data science?
 ##### What is Data Science projected for?
 ##### Relationship of Data Science with Computer Science, Mathematics and Statistics
 ##### Data Science and Domain Expertise
 ##### Consolidation of the interrelation between Artificial Intelligence (AI), Machine Learning (ML), Big Data, and Data Science
 
-#### V Application Examples
+### V Application Examples
 ##### Presentation of Recent Applications
 
 <hr>
