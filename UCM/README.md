@@ -15,7 +15,7 @@ This presentation provides a broad, very informative and accurate view of the su
 ##### Artificial Super Intelligence (ASI)
 ##### Technological Singularity
 
-### II What about Machine learning (ML)
+### II What about Machine learning (ML)?
 ##### What is ML?
 ##### Why and what is the ML for?
 ##### ML Classification
