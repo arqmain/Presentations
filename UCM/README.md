@@ -6,7 +6,7 @@ This presentation provides a broad, very informative and accurate view of the su
 
 ### TABLE OF CONTENTS
 
-### I What About Artificial Intelligence (AI)
+### I What About Artificial Intelligence (AI)?
 ##### What is AI?
 ##### AI classification
 ##### Some topics of AI's progress to date (July 2019)
@@ -24,7 +24,7 @@ This presentation provides a broad, very informative and accurate view of the su
 ##### Some platforms and tools specialized in ML?
 ##### AI and Machine Learning
 
-### III What about Big Data (BigData)
+### III What about Big Data (BigData)?
 ##### What is BigData?
 ##### Some important concepts associated with BigData
 ##### BigData Characterization (5V)
@@ -34,7 +34,7 @@ This presentation provides a broad, very informative and accurate view of the su
 ##### Relationship of information storage capacity and BigData
 ##### AI, Machine Learning, and BigData
 
-### IV What About Data Science
+### IV What About Data Science?
 ##### What is data science?
 ##### What is Data Science projected for?
 ##### Relationship of Data Science with Computer Science, Mathematics and Statistics
