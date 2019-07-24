@@ -22,7 +22,7 @@ This presentation provides a broad, very informative and accurate view of the su
 ##### ML techniques
 ##### Overview of Neural Networks and Deep Learning
 ##### Some platforms and tools specialized in ML?
-##### AI and Machine Learning
+##### So why are AI and HI bundled up together?
 
 ### III What about Big Data (BigData)?
 ##### What is BigData?
@@ -32,7 +32,7 @@ This presentation provides a broad, very informative and accurate view of the su
 ##### What can BigData do?
 ##### Some applications and uses of BigData
 ##### Relationship of information storage capacity and BigData
-##### AI, Machine Learning, and BigData
+##### So why are AI, Machine Learning, and BigData bundled up together?
 
 ### IV What About Data Science?
 ##### What is data science?
