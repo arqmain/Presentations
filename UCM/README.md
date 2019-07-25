@@ -4,7 +4,11 @@
 
 Actualized format of the presentation made in the month of June 2019, at the Universidad Católica del Maule (UCM) for students of the Engineering in Statistics career (recently created), managers, and faculty.
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=pRFEz2MjZgg)
+```javascript
+function hello(name) {
+  console.log(name);
+}
+```
 
 This presentation provides a broad, very informative and accurate view of the subject. At the end of the presentation, the audience leaves with a clear vision of each of the treated topics, their interrelation, dependence, and independence respectively. The presentation is complemented with a summary exposition of the state of the art of the subject in general, and a couple of examples of direct application of recent data.
 
