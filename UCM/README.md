@@ -1,12 +1,12 @@
 <p align="center">
-    <img width=80% height=80% src="https://www.arqmain.net/GITHUBE/Images/DScience2.png">
+    <img  src="https://www.arqmain.net/GITHUBE/Images/DScience2.png">
 </p>
 
 Actualized format of the presentation made in the month of June 2019, at the Universidad Católica del Maule (UCM) for students of the Engineering in Statistics career (recently created), managers, and faculty.
 
-<p align="center">
+<span style="display:block;text-align:center">
   <img  src="https://www.arqmain.net/GITHUBE/Images/DScience2.png">
-</p>
+</span>
 
 This presentation provides a broad, very informative and accurate view of the subject. At the end of the presentation, the audience leaves with a clear vision of each of the treated topics, their interrelation, dependence, and independence respectively. The presentation is complemented with a summary exposition of the state of the art of the subject in general, and a couple of examples of direct application of recent data.
 
