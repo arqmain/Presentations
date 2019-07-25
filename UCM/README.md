@@ -1,5 +1,7 @@
 <p align="center">
+  
 ![](https://www.arqmain.net/GITHUBE/Images/DScience2.png)
+
 </p>
 
 Actualized format of the presentation made in the month of June 2019, at the Universidad Católica del Maule (UCM) for students of the Engineering in Statistics career (recently created), managers, and faculty.
