@@ -24,7 +24,7 @@ This presentation provides a broad, very informative and accurate view of the su
 ##### ML techniques
 ##### Overview of Neural Networks and Deep Learning
 ##### Some platforms and tools specialized in ML?
-##### So why are AI and HI bundled up together?
+##### So why are AI and ML bundled up together?
 
 ### III What about Big Data (BigData)?
 ##### What is BigData?
