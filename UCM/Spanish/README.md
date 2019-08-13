@@ -1,55 +1,57 @@
 <p align="center">
-<img  src="https://www.arqmain.net/GITHUBE/Images/DScience2.png">
+<img  src="https://www.arqmain.net/GITHUBE/Images/DScienceSpain.png">
 </p>
 
-Actualized format of the presentation made in the month of June 2019, at the Universidad Católica del Maule (UCM) to students of the Engineering in Statistics career (recently created), managers, and faculty.
+Formato actualizado de la presentación realizada en el mes de junio de 2019, en la Universidad Católica del Maule (UCM) a estudiantes, profesores y director de departamento de la carrera de Ingeniería en Estadística (recientemente creada) en la facultad de Ciencias Básicas.
 
-This presentation provides a broad, very informative and accurate view of the subject. At the end of the presentation, the audience leaves with a clear vision of each of the treated topics, their interrelation, dependence, and independence respectively. The presentation is complemented with a summary exposition of the state of the art of the subject in general, and a couple of examples of direct application of recent data.
+Esta presentación proporciona una visión amplia, muy informativa y precisa del tema. Al final de la presentación, la audiencia logra una visión clara de cada uno de los temas tratados, su interrelación, dependencia e independencia, respectivamente. La presentación se complementa con una exposición resumida del estado del arte del tema en general, y un par de ejemplos de aplicación directa de datos recientes.
 
-### TABLE OF CONTENTS
+### TABLA DE CONTENIDOS
 
-### I What About Artificial Intelligence (AI)?
-##### What is AI?
-##### AI classification
-##### Some topics of AI's progress to date (July 2019)
-##### What can AI do?
-##### Some AI uses
+### I Artifical Intelligence (AI)
+##### Que es la  AI?
+##### Clasificacion de AI
+##### Algunos topicos del avance de AI a la fecha (July 2019)
+##### Para que puede servir la AI?
+##### Algunos uso de la AI
 ##### Artificial Super Intelligence (ASI)
 ##### Technological Singularity
 
-### II What about Machine learning (ML)?
-##### What is ML?
-##### Why and what is the ML for?
-##### ML Classification
-##### ML techniques
-##### Overview of Neural Networks and Deep Learning
-##### Some platforms and tools specialized in ML?
-##### So why are AI and ML bundled up together?
+### II Machine learning (ML)
+##### Que es ML?
+##### Por qué y oara qué es el ML?
+##### Clasificacion clasica del ML
+##### Tecnicas  de ML
+##### Generalidades sobre Redes Neuronales y Deep Learning
+##### Algunas plataformas y herramientas especializadas en ML?
+##### Entonces por que estan AI y Machine Learning agrupados juntos?
 
-### III What about Big Data (BigData)?
-##### What is BigData?
-##### Some important concepts associated with BigData
-##### BigData Characterization (5V)
-##### ETL and BigData
-##### What can BigData do?
-##### Some applications and uses of BigData
-##### Relationship of information storage capacity and BigData
-##### So why are AI, Machine Learning, and BigData bundled up together?
+### III Big Data (BigData)
+##### Que es BigData
+##### Algunos conceptos importantes asociados a BigData
+##### Caracterizacion del BigData (5V)
+##### ETL y BigData
+##### Para que puede servir el BigData?
+##### Alguna aplicaciones y usos del BigData
+##### Relacion de Capacidad de almacenaje de informacion y BigData
+##### Entonces por que estan AI, Machine Learning y  BigData agrupados juntos?
 
-### IV What About Data Science?
-##### What is data science?
-##### What is Data Science projected for?
-##### Relationship of Data Science with Computer Science, Mathematics and Statistics
-##### Data Science and Domain Expertise
-##### Consolidation of the interrelation between Artificial Intelligence (AI), Machine Learning (ML), Big Data, and Data Science
+### IV Data Science
+##### Que es Data Science?
+##### Para que está proyectada Data Science?
+##### Relación de Data Science con la Informática, Memática y Estadística.
+##### Data Science y Domain Expertise
+##### Consolidación de la interrelación entre Inteligencia Artificial (IA), Machine Learning (ML), Big Data, y Data Science
 
-### V Application Examples
-##### Presentation of Recent Applications
+### V Ejemplos
+##### Presentación de aplicaciones recientes
+
+
 
 <hr>
 
-><i>Hector Alvaro Rojas<br>
->Data Science, Data Analysis, Visualizations and Applied Statistics / July 2019<br>
+><i>Héctor Alvaro Rojas<br>
+>Data Science, Data Análisis, Visualizaciones y Estadística Aplicada / Julio 2019<br>
 >Email: <arqmain2010@gmail.com> <br>
 >Url: [http://www.arqmain.net]   /   GitHub: [https://github.com/arqmain]</i>
 
