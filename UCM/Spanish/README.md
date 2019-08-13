@@ -43,9 +43,9 @@ Esta presentación proporciona una visión amplia, muy informativa y precisa del
 ##### Data Science y Domain Expertise
 ##### Consolidación de la interrelación entre Inteligencia Artificial (IA), Machine Learning (ML), Big Data, y Data Science
 
-### V Ejemplos
-##### Presentación de aplicaciones recientes
-##### Presentación de aplicaciones recientes
+### V Ejemplos aplicación
+##### Presentación Ejemplo 1
+##### Presentación Ejemplo 2
 
 <hr>
 
