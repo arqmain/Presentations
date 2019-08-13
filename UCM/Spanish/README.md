@@ -49,8 +49,5 @@ Esta presentación proporciona una visión amplia, muy informativa y precisa del
 
 <hr>
 
-><i>Héctor Alvaro Rojas<br>
->Data Science, Data Análisis, Visualizaciones y Estadística Aplicada / Julio 2019<br>
->Email: <arqmain2010@gmail.com> <br>
->Url: [http://www.arqmain.net]   /   GitHub: [https://github.com/arqmain]</i>
+
 
