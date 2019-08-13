@@ -9,44 +9,43 @@ Esta presentación proporciona una visión amplia, muy informativa y precisa del
 ### TABLA DE CONTENIDOS
 
 ### I Artifical Intelligence (AI)
-##### Que es la  AI?
-##### Clasificacion de AI
-##### Algunos topicos del avance de AI a la fecha (July 2019)
-##### Para que puede servir la AI?
+##### Qué es la  AI?
+##### Clasificación de AI
+##### Algunos tópicos del avance de AI a la fecha (July 2019)
+##### Para qué puede servir la AI?
 ##### Algunos uso de la AI
 ##### Artificial Super Intelligence (ASI)
 ##### Technological Singularity
 
 ### II Machine learning (ML)
-##### Que es ML?
-##### Por qué y oara qué es el ML?
-##### Clasificacion clasica del ML
-##### Tecnicas  de ML
+##### Qué es ML?
+##### Por qué y para qué es el ML?
+##### Clasificación clásica del ML
+##### Técnicas  de ML
 ##### Generalidades sobre Redes Neuronales y Deep Learning
 ##### Algunas plataformas y herramientas especializadas en ML?
-##### Entonces por que estan AI y Machine Learning agrupados juntos?
+##### Entonces por qué estan AI y Machine Learning agrupados juntos?
 
 ### III Big Data (BigData)
-##### Que es BigData
+##### Qué es BigData
 ##### Algunos conceptos importantes asociados a BigData
-##### Caracterizacion del BigData (5V)
+##### Caracterización del BigData (5V)
 ##### ETL y BigData
-##### Para que puede servir el BigData?
-##### Alguna aplicaciones y usos del BigData
-##### Relacion de Capacidad de almacenaje de informacion y BigData
-##### Entonces por que estan AI, Machine Learning y  BigData agrupados juntos?
+##### Para qué puede servir el BigData?
+##### Algunas aplicaciones y usos del BigData
+##### Relación de Capacidad de almacenaje de información y BigData
+##### Entonces por qué estan AI, Machine Learning y  BigData agrupados juntos?
 
 ### IV Data Science
-##### Que es Data Science?
-##### Para que está proyectada Data Science?
+##### Qué es Data Science?
+##### Para qué está proyectada Data Science?
 ##### Relación de Data Science con la Informática, Memática y Estadística.
 ##### Data Science y Domain Expertise
 ##### Consolidación de la interrelación entre Inteligencia Artificial (IA), Machine Learning (ML), Big Data, y Data Science
 
 ### V Ejemplos
 ##### Presentación de aplicaciones recientes
-
-
+##### Presentación de aplicaciones recientes
 
 <hr>
 
