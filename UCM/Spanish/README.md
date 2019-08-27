@@ -1,5 +1,5 @@
 <p align="center">
-<img  src="https://www.arqmain.net/GITHUBE/Images/DScienceSpain.png">
+<img  src="https://www.arqmain.net/GITHUBE/Images/DScienceSpain2.png">
 </p>
 
 Formato actualizado de la presentación realizada en el mes de junio de 2019, en la Universidad Católica del Maule (UCM) a estudiantes, profesores y director de departamento de la carrera de Ingeniería en Estadística (recientemente creada) en la facultad de Ciencias Básicas.
