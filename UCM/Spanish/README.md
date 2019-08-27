@@ -13,7 +13,7 @@ Esta presentación proporciona una visión amplia, muy informativa y precisa del
 ##### Clasificación de AI
 ##### Algunos tópicos del avance de AI a la fecha (Julio 2019)
 ##### Para qué puede servir la AI?
-##### Algunos uso de la AI
+##### Algunos usos de la AI
 ##### Artificial Super Intelligence (ASI)
 ##### Technological Singularity
 
